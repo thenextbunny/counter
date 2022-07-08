@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Contador </h1>
+  <h1>Contador</h1>
 </div>
 <div>
   <h3>Sobre o projeto</h3>
@@ -9,8 +9,8 @@
   
    <h3>Linguagens utilizadas</h3>
   <ul>
-    <li>HTML</li>
-    <li>CSS</li>
+    <li>CSS3</li>
+    <li>HTML5</li>
     <li>JavaScript</li>
   </ul>
 </div>
